@@ -5,7 +5,7 @@ convert emoji to cn
 
 点击[这里](./data/emoji.md)查看表情对应关系
 
-#1如何使用emoji？
+#1 查看emoji
 
 ###电脑(max os)
 使用表情符号非常简单，大部分程序中,点击菜单栏中的"编辑(edit)"/"特殊字符(Special Characters)"，
@@ -79,7 +79,7 @@ Unicode: U+1F308 (U+D83C U+DF08), UTF-8: F0 9F 8C 88
 http://blog.csdn.net/qdkfriend/article/details/7576524
 
 
-###(2).哪里可以下载到高清 Emoji 全套图标？修改
+###(2).哪里可以下载到高清 Emoji 全套图标？
 http://www.zhihu.com/question/20360838
 
 可以在这里 [1] 找到提取 UIKit 中的 Emoji 图标源码，在这里 [2] 可以下载到我提取好的 Emoji 打包图片（共 472 张，64 x 64）。
