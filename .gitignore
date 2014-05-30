@@ -3,6 +3,7 @@
 build/
 out/
 .idea/
+.gradle/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -16,5 +17,7 @@ out/
 hs_err_pid*
 
 *.iml
+*.ipr
+*.iws
 
 data/.DS_Store
