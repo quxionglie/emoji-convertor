@@ -1,10 +1,13 @@
-unicode  |  utf8  |  unicode16  |  sbunicode   |  mac os  |  short en  |  cn  
+emoji各种编码对应关系
+=========
+
+unicode  |  utf8  |  unicode16  |  sbunicode   |  mac os  |  short en  |  cn
 --       |  ---   |  ---        |  ---         |  --      |  ---       |  -- 
 U+1F604 | F0 9F 98 84 | U+D83D U+DE04 | E415 | SMILING FACE WITH OPEN MOUTH AND SMILING EYES | smile | em哈哈 
 U+1F603 | F0 9F 98 83 | U+D83D U+DE03 | E057 | SMILING FACE WITH OPEN MOUTH | smiley | em开口笑 
 U+1F600 | F0 9F 98 80 | U+D83D U+DE00 | --- | GRINNING FACE | grinning | em_grinning 
 U+1F60A | F0 9F 98 8A | U+D83D U+DE0A | E056 | SMILING FACE WITH SMILING EYES | blush | em高兴 
-U+263A | E2 98 BA EF B8 8F | U+263A | E414 | WHITE SMILING FACE | --- | em悠闲 
+U+263A  | E2 98 BA EF B8 8F | U+263A | E414 | WHITE SMILING FACE | --- | em悠闲
 U+1F609 | F0 9F 98 89 | U+D83D U+DE09 | E405 | WINKING FACE | wink | em眨眼 
 U+1F60D | F0 9F 98 8D | U+D83D U+DE0D | E106 | SMILING FACE WITH HEART-SHAPED EYES | heart_eyes | em色 
 U+1F618 | F0 9F 98 98 | U+D83D U+DE18 | E418 | FACE THROWING A KISS | kissing_heart | em飞吻 
